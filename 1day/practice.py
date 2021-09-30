@@ -1,0 +1,7 @@
+print(5)
+print(-10)
+print(3.14)
+print(1000)
+print(5+2)
+print(5*5)
+print(3*(3+1))
