@@ -18,3 +18,10 @@ printf("hello")
 -|-|-|
 "-\|"|사용하면|됨
 test|영어|수학
+```
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+```
